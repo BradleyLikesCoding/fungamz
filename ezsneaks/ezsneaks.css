@@ -1,0 +1,21 @@
+ #nav-bar-div, body {
+     background-color: rgb(191, 255, 118);
+ }
+
+#nav-bar-div {
+    display: flex;
+    flex-flow: column;
+    height: 13%;
+}
+
+ #content {
+    background-color: rgb(80, 173, 255);
+    display: flex;
+    flex-flow: column;
+    height: 87%;
+ }
+
+ html, body{
+    height: 100%;
+    margin: 0;
+}
